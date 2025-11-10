@@ -12,8 +12,8 @@ So, Vendor performance analysis is to evaluate how well each vendor contributes 
 - Analyze the impact of bulk purchasing on unit costs.
 
 **EDA**: Understanding the dataset to explore how the data is present in the dataset and if there is a need of creating some aggregated tables that can help with:
-•	Vendor Selection for profitability
-•	Product pricing for optimization
+-	Vendor Selection for profitability
+-	Product pricing for optimization
 
 
 Since the data required for analysis is distributed across multiple tables, a **summary table** needs to be created that consolidates key information, including:
