@@ -1,6 +1,7 @@
 # Vendor Performance Analysis
 
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to insure that they are not incurring losses due to ineffcient pricing, poor inventory turnover, or vendor dependency.
+So, Vendor performance analysis is to evaluate how well each vendor contributes to a company’s business goals — mainly in terms of cost, quality, reliability, and delivery efficiency. In short, it helps businesses make informed, data-driven decisions to reduce costs, improve inventory management, and enhance overall operational efficiency.
 
 ## Overview
 
