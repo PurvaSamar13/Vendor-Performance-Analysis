@@ -1,10 +1,18 @@
 # Vendor Performance Analysis
 
-Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry.
+Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to insure that they are not incurring losses due to ineffcient pricing, poor inventory turnover, or vendor dependency.
 
 ## Overview
 
-This project focuses on identifying underperforming brands that require promotional or pricing adjustments.  
+- This project focuses on identifying underperforming brands that require promotional or pricing adjustments.
+- Determine top vendors contributing to sales and gross profit and find out total profit margin.
+- Assess inventory turnover to reduce holding costs and improve effciency.
+- Analyze the impact of bulk purchasing on unit costs.
+
+**EDA**: Understanding the dataset to explore how the data is present in the dataset and if there is a need of creating some aggregated tables that can help with:
+•	Vendor Selection for profitability
+•	Product pricing for optimization
+
 
 Since the data required for analysis is distributed across multiple tables, a **summary table** needs to be created that consolidates key information, including:
 
